@@ -1,0 +1,44 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# Model files
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+tmp/
+
+# Results (optional)
+results/*.csv
+results/*.json
+
+# Audio files
+*.wav
+*.mp3
