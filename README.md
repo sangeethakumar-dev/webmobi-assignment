@@ -77,6 +77,15 @@ Results are saved in:
 python run.py
 ```
 
+## Environment
+
+- Python 3.10+
+- OS: Linux / Google Colab recommended
+- Dependencies listed in requirements.txt
+
+Note:
+Windows systems may face FFmpeg / TorchCodec issues during audio decoding.
+This project was developed and tested successfully in Google Colab.
 ---
 
 ## Requirements
