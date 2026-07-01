@@ -1,6 +1,6 @@
 import json
 from src.inference import run_inference
-from src.evaluate import evaluate
+from src.   evaluate import evaluate
 
 
 def main():
